@@ -19,7 +19,7 @@
                         </ul>
                     </li>
                    
-                    <li class="has-submenu {{ Request::is('rule','rule/*') ? "active" : "" }}">
+                    <li class="has-submenu {{ Request::is('rule','rule/*','frequent','frequent/*') ? "active" : "" }}">
                         <a href="#"><i class="zmdi zmdi-account-box-o"></i><span> Rule </span> </a>
                         <ul class="submenu">
                             <li class="{{ Request::is('rule','rule/*') ? "active" : "" }}">
@@ -34,6 +34,12 @@
                     <li class="has-submenu">
                         <a href="#"><i class="zmdi zmdi-file-text"></i><span> Laporan </span> </a>
                         <ul class="submenu">
+                            <li class="{{ Request::is('frequent_report','frequent_report/*') ? "active" : "" }}">
+                            <a href="{{ url('frequent_report')}}">Laporan Frequency</a>
+                            </li>
+                            <li class="{{ Request::is('items_report','items_report/*') ? "active" : "" }}">
+                                <a href="{{ url('items_report') }}">Laporan Barang</a>
+                            </li>
                         </ul>
                     </li>
     
