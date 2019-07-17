@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-6">
-                    2018 © <a href="http://hyperpos.id/about">LaminaMarket</a>
+                    2018 © <a href="http://hyperpos.id/about">Assgros</a>
                 </div>
                 <div class="col-xs-6">
                     <ul class="pull-right list-inline m-b-0">

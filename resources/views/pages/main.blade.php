@@ -6,7 +6,7 @@
            <div class="col-md-12">
                <div class="card" style="margin-top: 10px">
                    <div class="card-box">
-                       <h2 class="text-success">Sistem Penentuan Aturan Asosiasi pada Supermarket Lamina</h2>
+                       <h2 class="text-success">Sistem Penentuan Aturan Asosiasi pada Assgros</h2>
                        <p>Selamat datang, sistem rekomendasi barang berfungsi sebagai referensi dalam membantu admin menentukan pembelian stok dengan adanya rekomendasi barang berdasarkan pola pembelian konsumen.</p>
                         <p><bold>Tutorial : </bold></p>
                        <ol>

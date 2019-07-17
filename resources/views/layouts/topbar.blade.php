@@ -4,7 +4,7 @@
         <!-- LOGO -->
         <div class="topbar-left">
             <a href="" class="logo">
-                <span>Lamina
+                <span>Assgross
                     <span>market</span>
                 </span>
             </a>
